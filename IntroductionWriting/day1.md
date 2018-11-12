@@ -61,9 +61,14 @@
 		- Model-based hierarchical optimal control design for HVAC systems
 		- Energy e cient building climate control using stochastic model predictive control and weather predictions
 		- Co-scheduling of HVAC control, EV charging and battery usage for building energy efficiency
+		- 基于预测算法的室内空气调节
+		- 辐射末端复合空调系统监督控制方法研究	
+		- 基于模型预测控制的空调系统运行优化仿真研究
 	
 	- data-driven prediction control
 		- Autonomous HVAC Control, A Reinforcement Learning Approach
-		- 
+		- multi-grid reinforcement learning method for energy conservation and comfort of HVAC in buildings
+		- A method for computing optimal set-point schedules for HVAC systems
+		- Experimental analysis of data-driven control for a building heating system
 
 - 3.post it
