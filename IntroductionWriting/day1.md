@@ -3,7 +3,7 @@
 
 ## preCourse
 - Structure of the course
-</br>![alt text](../images/course1/sim1.jpg)
+</br>![alt text](../images/preCourse.jpg)
 </br>
 
 ## what's a literature review?
@@ -28,6 +28,10 @@
 		- ensures not to duplicate work already done
 		- gain skills: info seeking; critical appraisal
 
-
-	- 
+- produce a literature review
+	- develop a working topic
+	- search  and select papers
+	- read and evaluate papers
+	- organize thoughts
+	- compose it
 	
