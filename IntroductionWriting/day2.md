@@ -1,10 +1,6 @@
 # Day2
 </br>
 
-## preCourse
-- Structure of the course
-</br>![alt text](../images/preCourse.jpg)
-</br>
 
 ## what's a literature review?
 - where to look for information?
